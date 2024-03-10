@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amine_bakrim_portfolio/static/css/main.6e7a45b0.css",
+    "main.js": "/amine_bakrim_portfolio/static/js/main.6ac6a2f9.js",
+    "static/media/me2.JPG": "/amine_bakrim_portfolio/static/media/me2.3d4aca1eaba944ee9062.JPG",
+    "static/media/REACT.png": "/amine_bakrim_portfolio/static/media/REACT.a87bf07fb380b6e706ca.png",
+    "static/media/AMINE2-1.png": "/amine_bakrim_portfolio/static/media/AMINE2-1.c030fb72ce4d9a973a5a.png",
+    "static/media/js.png": "/amine_bakrim_portfolio/static/media/js.1deafa65590a6d683167.png",
+    "static/media/bootstrap.png": "/amine_bakrim_portfolio/static/media/bootstrap.1be54cfd54df306aa049.png",
+    "static/media/tailwindlogo.png": "/amine_bakrim_portfolio/static/media/tailwindlogo.9bff1085bc1e2a0cff89.png",
+    "static/media/csslogo.png": "/amine_bakrim_portfolio/static/media/csslogo.9fa1c3f36eb5f2a061ba.png",
+    "static/media/sass.png": "/amine_bakrim_portfolio/static/media/sass.1e7800226257cf0a44bf.png",
+    "static/media/A2.png": "/amine_bakrim_portfolio/static/media/A2.0d9454d0115d81bdb1e3.png",
+    "index.html": "/amine_bakrim_portfolio/index.html",
+    "main.6e7a45b0.css.map": "/amine_bakrim_portfolio/static/css/main.6e7a45b0.css.map",
+    "main.6ac6a2f9.js.map": "/amine_bakrim_portfolio/static/js/main.6ac6a2f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e7a45b0.css",
+    "static/js/main.6ac6a2f9.js"
+  ]
+}
